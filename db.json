@@ -1,0 +1,74 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja ",
+      "precio": "500",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "350",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "150",
+      "id": 5
+    },
+    {
+      "nombre": "Pan",
+      "precio": 1000,
+      "id": 6
+    },
+    {
+      "nombre": "Jugo de manzana",
+      "precio": 200,
+      "id": 7
+    },
+    {
+      "nombre": "Pan queso y jamon",
+      "precio": 800,
+      "id": 8
+    },
+    {
+      "nombre": "Queso amarillo",
+      "precio": 350,
+      "id": 9
+    },
+    {
+      "nombre": "Napolitano",
+      "precio": 600,
+      "id": 10
+    },
+    {
+      "nombre": "123",
+      "precio": 123,
+      "id": 11
+    },
+    {
+      "nombre": "Leche",
+      "precio": 250,
+      "id": 12
+    },
+    {
+      "nombre": "123",
+      "precio": 213,
+      "id": 13
+    },
+    {
+      "nombre": "gabriel",
+      "precio": 23,
+      "id": 14
+    },
+    {
+      "nombre": "213",
+      "precio": 123,
+      "id": 15
+    },
+    {
+      "nombre": "xd",
+      "precio": 3123,
+      "id": 16
+    }
+  ]
+}
